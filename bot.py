@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 
 # ---------------- Bot Token ----------------
-BOT_TOKEN = "7869722331:AAE9dFIuow-c3ZygEmuSXHQxGmmENQPx3SE"
+BOT_TOKEN = "8089194654:AAEkFDyiiZld6APFliA39AMcjXdahHh_gqg"
 
 # ---------------- In-memory chat storage ----------------
 chats = {
